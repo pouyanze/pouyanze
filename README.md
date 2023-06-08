@@ -11,12 +11,11 @@ Driven by my curiosity and passion for technology, I embarked on a new path as a
 
 ## AI and Current Project
 
-I am particularly fascinated by AI concepts and their potential to revolutionize various industries. Currently, I am deeply engaged in an exciting AI-powered recruitment project. The aim is to leverage the power of artificial intelligence to transform the way organizations acquire top talents and how job seekers find their path.
+I am extremely interested in AI concepts and how they can revolutionize different industries. Currently, I'm working on an exciting project that uses AI to help job seekers find better opportunities for skill development.
 
-I believe that AI has the capacity to bring significant advancements to the field of talent acquisition, ensuring efficient matches between candidates and organizations and educational paths.
+I believe AI can greatly improve talent development by connecting people with the right educational paths and organizations.
 
-I am genuinely excited to contribute to the ongoing advancements in AI and explore its limitless possibilities for transforming industries and solving complex challenges.
-
+I'm genuinely excited to be part of AI advancements and explore its endless potential for transforming industries and solving complex problems.
 
 ## Contact Me
 
