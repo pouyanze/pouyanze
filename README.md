@@ -1,5 +1,4 @@
-### Hi there 👋
-# Hi, I'm Pouyan!
+# Hi, I'm Pouyan!  👋
 
 I am a civil engineer with a Masters's degree in project management. My career journey has been diverse, starting as a salesperson where I developed strong interpersonal and communication skills. I then transitioned to a store manager role, where I honed my leadership and organizational abilities. With a passion for managing complex projects, I became a project manager in civil projects, overseeing successful construction initiatives.
 
