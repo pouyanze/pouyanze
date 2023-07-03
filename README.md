@@ -9,13 +9,16 @@ Driven by my curiosity and passion for technology, I embarked on a new path as a
 - [portfolio template](https://github.com/pouyanze/portfolio): a portfolio template written with Django.
 - [Todo list app](https://github.com/pouyanze/Faeze-Pouyan-Hutan-todo-app): a simple Todo list app which Express.JS.
 
-## AI and Current Project
+## AI and Current Projects
 
-I am extremely interested in AI concepts and how they can revolutionize different industries. Currently, I'm working on an exciting project that uses AI to help job seekers find better opportunities for skill development.
+###	Personalized children’s book powered by AI
+•	An application that leverages AI technologies to simplify the process of creating personalized children's books.
+•	Tech Stack: Node.js, Next.js, MySql
 
-I believe AI can greatly improve talent development by connecting people with the right educational paths and organizations.
+###	Job Route
+•	A web application that discovers personalized educational path recommendations based on users’ skills and professional experience, using AI.
+•	Tech stack: Django, Next.js
 
-I'm genuinely excited to be part of AI advancements and explore its endless potential for transforming industries and solving complex problems.
 
 ## Contact Me
 
