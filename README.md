@@ -1,6 +1,6 @@
 # Hi, I'm Pouyan!  👋
 
-I was a civil engineer with a Masters's degree in project management. My career journey has been diverse, starting as a salesperson where I developed strong interpersonal and communication skills. I then transitioned to a store manager role, where I honed my leadership and organizational abilities. With a passion for managing complex projects, I became a project manager in civil projects, overseeing successful construction initiatives.
+I was a civil engineer with a Masters's degree in project management. My career journey has been diverse, starting as a salesperson where I developed strong interpersonal and communication skills. I then transitioned to a store manager role ( later as I immersed myself in product management, I was amazed to discover numerous unexpected similarities between my experiences in both roles), where I honed my leadership and organizational abilities. With a passion for managing complex projects, I became a project manager in civil projects, overseeing successful construction initiatives.
 
 Driven by my curiosity and passion for technology, I embarked on a new path as a junior software developer. I am excited about combining my engineering background with software development skills to create innovative solutions. Additionally, I am eager to explore product manager role, as I enjoy translating user needs into impactful software features.
 
