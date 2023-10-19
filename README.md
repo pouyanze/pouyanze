@@ -1,15 +1,21 @@
-# Hi, I'm Pouyan!  👋
+Hi, I'm Nova! 👋
+Right now I am an Applied Product Management student at SAIT, a program offered in cooperation with @TacitEdge.
+I have been a product manager for two startups recently, both of them leveraging AI to empower the community in their own unique way. A bit of history of mine:
+Coming from:
+1- Running a product-based business in Iran, focusing on making furniture and custom wood projects and also selling products in a showroom
+2- Civil engineering, project coordination, and project management
 
-I was a civil engineer with a Masters's degree in project management. My career journey has been diverse, starting as a salesperson where I developed strong interpersonal and communication skills. I then transitioned to a store manager role ( later as I immersed myself in product management, I was amazed to discover numerous unexpected similarities between my experiences in both roles), where I honed my leadership and organizational abilities. With a passion for managing complex projects, I became a project manager in civil projects, overseeing successful construction initiatives.
+I genuinely enjoy preventing and solving problems and achieving results.
 
-Driven by my curiosity and passion for technology, I embarked on a new path as a junior software developer. I am excited about combining my engineering background with software development skills to create innovative solutions. Additionally, I am eager to explore product manager role, as I enjoy translating user needs into impactful software features.
+3- Programming bootcamp
 
-## Recent Repositories
+
+## Recent Repositories me being the developer 
 
 - [portfolio template](https://github.com/pouyanze/portfolio): a portfolio template written with Django.
 - [Todo list app](https://github.com/pouyanze/Faeze-Pouyan-Hutan-todo-app): a simple Todo list app which Express.JS.
 
-## AI and Current Projects
+## AI and Current Projects me being the Product Manager
 
 ###	Personalized children’s book powered by AI
 •	An application that leverages AI technologies to simplify the process of creating personalized children's books.
@@ -22,8 +28,8 @@ Driven by my curiosity and passion for technology, I embarked on a new path as a
 
 ## Contact Me
 
-- LinkedIn: [pouyan-zeraati-chaveshlou](https://www.linkedin.com/in/pouyan-zeraati-chaveshlou-a7007793/)
-- Email: pouyan.ze@gmail.com
+- LinkedIn: [Nova-Zeraati](https://www.linkedin.com/in/nova-zeraati/)
+- Email: nova.zeraati@gmail.com
 
 ## GitHub Contributions
 
