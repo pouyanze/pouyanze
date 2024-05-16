@@ -1,6 +1,6 @@
 Hi, I'm Nova! 👋
 
-I recently graduated from SAIT after studying Applied Product Management, a program offered in collaboration with @TacitEdge. Currently, I am working as the Technical Program Manager at Immigrant Techies in Calgary!
+I recently graduated from SAIT after studying Applied Product Management, a program offered in collaboration with @TacitEdge. Currently, I am working as the Technical Program Manager at Immigrant Techies in Calgary! 
 
 In 2023, I had the opportunity to serve as the product manager for two apprenticeship projects. Both projects utilized AI to enhance the core functionality of the applications in unique ways.
 
@@ -16,7 +16,7 @@ Looking forward to connecting with you further!
 - [Todo list app](https://github.com/pouyanze/Faeze-Pouyan-Hutan-todo-app): a simple Todo list app which Express.JS.
 
 ## AI Projects with me being the Product Manager
-###	Timy Tale: Personalized children’s book powered by AI
+###	Tiny Tale: Personalized children’s book powered by AI
 •	An application that leverages AI technologies to simplify the process of creating personalized children's books.
 •	Tech Stack: Node.js, Next.js, MySql, Tailwind, NodeJS, ExpressJS, TypeORM, MySql, OpenAI
 https://tinytalepersonalized.vercel.app/
